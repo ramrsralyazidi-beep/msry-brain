@@ -1,1 +1,1 @@
-web: gunicorn msry_brain_100:app
+web: gunicorn app:app
